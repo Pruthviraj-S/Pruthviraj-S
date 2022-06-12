@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PruthvirajS</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pruthviraj-s&title=Joined,Commits,Followers,Repositories" alt="pruthviraj-s" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pruthviraj-s&title=Joined2020,LongTimeUser,Commits,Followers,Repositories" alt="pruthviraj-s" /></a> </p>
 
 - 🌱 I’m currently learning **M.Tech CyberSecurity**
 
