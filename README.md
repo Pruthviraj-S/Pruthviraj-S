@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Cybersecurity Enthusiast.</h3>
 
 ## 🧑‍💻About Me:
-- 🌱 I’m currently learning **M.Tech CyberSecurity**
+- 🌱 I’m **M.Tech CyberSecurity**
 
 - 💬 Ask me about **Malware Analysis**
 
