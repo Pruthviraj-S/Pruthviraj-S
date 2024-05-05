@@ -7,11 +7,11 @@ Henloooo
    :maxdepth: 2
    :caption: Contents:
 
-   introduction
+   Introduction
 
 .. toctree::
    :maxdepth: 2
    :caption: Resources:
 
-   phishing
+   Phishing
 
