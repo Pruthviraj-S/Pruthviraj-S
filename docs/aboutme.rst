@@ -1,11 +1,10 @@
 Hi 👋, I'm PruthvirajS
 ======================
 
-A passionate Cybersecurity Enthusiast.
----------------------------------------
+**A passionate Cybersecurity Enthusiast.**
 
-About Me:
-=========
+👨‍💻About Me:
+============
 
 * 🌱 I’m **M.Tech CyberSecurity**
 
