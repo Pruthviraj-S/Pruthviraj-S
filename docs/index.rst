@@ -8,6 +8,7 @@ Henloooo
    :caption: Contents:
 
    Introduction
+   README
 
 .. toctree::
    :maxdepth: 2
