@@ -7,7 +7,7 @@
     :align: center
 
 🧑‍💻About Me:
-----------------
+================
 
 -  🌱 I’m **M.Tech CyberSecurity**
 
@@ -36,14 +36,34 @@
 |NodeJS| |Apache| |Nginx| |MySQL| |MongoDB| |Canva| |Pandas| |NumPy|
 |SciPy| |scikit-learn| |Notion|
 
+.. _github-stats-:
+
+📊GitHub Stats 
+----------------
+
+|image1|\  |image2|\  |image3|
+
+.. _️random-dev-quote:
+
+✍️Random Dev Quote
+~~~~~~~~~~~~~~~~~~
+
+.. image:: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
+
+.. raw:: html
+
+   <!--  
+   ### 😂Random Dev Meme
+   <img src="https://random-memer.herokuapp.com/" width="256px"/>
+   -->
 --------------
 
-💻 Goal:
+💻 Goal
 ------------
 
 This website is meant for personal use only and contains resources, tools, and information that I have found useful in my journey to become a Cybersecurity Professional.
 
-|image1|
+|image4|
 
 .. |Discord| image:: https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white
    :target: https://discord.com/channels/@me/495023063486824467
@@ -76,5 +96,8 @@ This website is meant for personal use only and contains resources, tools, and i
 .. |SciPy| image:: https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white
 .. |scikit-learn| image:: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white
 .. |Notion| image:: https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white
-.. |image1| image:: https://visitcount.itsvg.in/api?id=pruthviraj-s&icon=5&color=9
+.. |image1| image:: https://github-readme-stats.vercel.app/api?username=pruthviraj-s&theme=blueberry&hide_border=false&count_private=true
+.. |image2| image:: https://github-readme-streak-stats.herokuapp.com/?user=pruthviraj-s&theme=blueberry&hide_border=false
+.. |image3| image:: https://github-readme-stats.vercel.app/api/top-langs/?username=pruthviraj-s&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact
+.. |image4| image:: https://visitcount.itsvg.in/api?id=pruthviraj-s&icon=5&color=9
    :target: https://visitcount.itsvg.in
