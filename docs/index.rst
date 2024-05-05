@@ -7,6 +7,8 @@ Henloooo
    :maxdepth: 2
    :caption: Contents:
 
+   aboutme
+
 
 
 Indices and tables
